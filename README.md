@@ -8,7 +8,7 @@ This project demonstrates multi-threading with synchronization using mutexes and
 - Windows Subsystem for Linux (WSL) enabled  
 
 ### Steps to Run  
-1. Clone this repository:
+1. Clone this repository: https://github.com/jasonksu/CS3502_Project1
 2. **Compile & Run the Main Project:**
    dotnet build dotnet run --project Project1.csproj
 3.  **Compile & Run the Child Process Separately:**
